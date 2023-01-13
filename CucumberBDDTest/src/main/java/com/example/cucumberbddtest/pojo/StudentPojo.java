@@ -1,4 +1,4 @@
-package com.example.CucumberBDDTest.Pojo;
+package com.example.cucumberbddtest.pojo;
 
 import lombok.Getter;
 
